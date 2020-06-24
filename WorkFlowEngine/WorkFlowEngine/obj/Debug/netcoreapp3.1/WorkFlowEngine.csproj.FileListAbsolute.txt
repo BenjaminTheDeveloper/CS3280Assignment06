@@ -1,0 +1,13 @@
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.csprojAssemblyReference.cache
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.AssemblyInfo.cs
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.exe
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.deps.json
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.runtimeconfig.json
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.runtimeconfig.dev.json
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.dll
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\bin\Debug\netcoreapp3.1\WorkFlowEngine.pdb
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.dll
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.pdb
+C:\Users\Stu\Desktop\CS3280A6\CS3280Assignment06\WorkFlowEngine\WorkFlowEngine\obj\Debug\netcoreapp3.1\WorkFlowEngine.genruntimeconfig.cache
